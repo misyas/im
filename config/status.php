@@ -1,0 +1,6 @@
+<?php
+return [
+    'success' => 200,
+    'failed' => 100,
+    'goto' => 101,
+];
